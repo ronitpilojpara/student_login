@@ -1,6 +1,8 @@
-This is a simple PHP project that uses a database created in phpMyAdmin.
+💻 This is a simple PHP project that uses a database created in phpMyAdmin.
 
-The project provides a student login page where, after submitting the form, the entered details are displayed on the screen and simultaneously stored in the database.
+🔐 The project provides a Student Login Page, where after submitting the form:
 
-Place both files inside the directory:
-C:\xampp\htdocs\my_project
+✍️ The entered details are displayed on the screen, and 🗂️ Simultaneously stored in the database.
+
+📁 To run the project, place both files inside the following directory:
+C:\xampp\htdocs\my
